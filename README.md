@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @agguiarjv
-- 👀 I’m interested in HTML , CSS , JAVASCRIPT...
-- 🌱 I’m currently learning ... front end 
-- 💞️ I’m looking to collaborate on ... projects in front ent , full stack 
-- 📫 How to reach me ...
+# 👋 Olá! Sou o João
 
-<!---
-agguiarjv/agguiarjv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Estudante de **Cibersegurança** em busca de constantes desafios na área de tecnologia.
+
+### 🛠️ Tecnologias & Interesses:
+- 🐍 **Python:** Automação, criação de ferramentas de segurança e rotinas de scripts.
+- ⚙️ **Linguagem C:** Entendimento de baixo nível, estrutura de dados e gerenciamento de memória.
+- 🛡️ **Cybersecurity:** Fundamentos de segurança, análise de redes e sistemas.
+
+📫 *Sempre estudando e construindo novos projetos!*
